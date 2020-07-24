@@ -1,5 +1,6 @@
 NAZHIV-Resolusi
 - ingin sukses mempelajari web development akuntansi untuk merapihkan adminintstrasi keuangan organisasi
 - ingin membuat aplikasi mobile
-- membuat bussines digital 
 - membuat relasi dengan expert
+- menambah relationship dengan para expert
+- minimal sudah paham web proggramming sebelum masuk kuliah
